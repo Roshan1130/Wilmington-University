@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages - this is team a page
+#### Wilmington University
 
 You can use the [editor on GitHub](https://github.com/Roshan1130/team/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Welcome to the Registration page for the Wilmington University!!
+Please select the degree program:
 
 ### Markdown
 
