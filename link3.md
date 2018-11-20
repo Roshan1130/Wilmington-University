@@ -1,4 +1,4 @@
-#The offered courses are:
+# The offered courses are:
 
 Course | Name of Professor |Cost | Description
 ---    | ---               | --- | ---
