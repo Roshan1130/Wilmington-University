@@ -6,8 +6,7 @@
 Welcome to the Registration page for the Wilmington University!!
 
 Please select the degree program:
-# MS in Information System Technology
- [Link](link1.md)
+# [MS in Information System Technology](link1.md)
 # Masters in  Management Human Resource
 # Masters in Business Administration (MBA)
 
