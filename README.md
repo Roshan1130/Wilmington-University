@@ -3,7 +3,7 @@
 
 ![Image](http://ccp.edu/sites/default/files/images/CollegePublicArt/wilmington.png)
 
-Welcome to the Registration page for the Wilmington University!!
+Welcome to the Registration page for Wilmington University!!
 
 Please select the degree program:
 # [MS in Information System Technology](link1.md)
