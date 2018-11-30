@@ -1,4 +1,4 @@
-The Sprint Plan for Week 4 is:
+The Sprint Plan for Week 5 is:
 * Create a checkbox so it is easy for user to select courses.
 * Create a button or link to the registration submission process.
 * Get a confirmation page or message 
