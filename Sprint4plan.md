@@ -5,4 +5,5 @@ The Sprint Plan for Week 4 is:
 
 Sprint Risks:
 It is possible that we get error in checkbox because it would be 1st time.
-It is possible to get confirmation message and pop out procedure.
+
+It is possible to get while getting confirmation message and pop out procedure.
