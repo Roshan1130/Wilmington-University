@@ -1,3 +1,5 @@
+Date: Starts on: 11/29/2018  -  Ends on 12/6/2018
+
 The Sprint Plan for Week 5 is:
 * Create a checkbox so it is easy for user to select courses.
 * Create a button or link to the registration submission process.
