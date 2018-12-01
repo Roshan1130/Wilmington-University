@@ -1,6 +1,5 @@
 # Wilmington University
 
-https://github.com/Roshan1130/Wilmington-University/blob/master/img_nature_wide.jpg
 ![Image](http://ccp.edu/sites/default/files/images/CollegePublicArt/wilmington.png)
 
 Welcome to the Registration page for Wilmington University!!
