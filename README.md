@@ -1,6 +1,7 @@
 # Wilmington University
 
 ![Image](http://ccp.edu/sites/default/files/images/CollegePublicArt/wilmington.png)
++50.6 KB img_nature_wide.jpg
 
 Welcome to the Registration page for Wilmington University!!
 
