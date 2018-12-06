@@ -1,4 +1,4 @@
-# The offered courses in MS[^1] in Information System Technology are :
+# The offered courses in MS in Information System Technology are :
 
 Course | Name of Professor |Cost | Description |Registration
 ---    | ---               | --- | ---|---
@@ -10,4 +10,4 @@ IST 7000 Data Management | Prof. Antonio | $1300 | This course introduce data ma
 
 
 
-[^1]: He is a good proffessor.
+
