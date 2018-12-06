@@ -7,4 +7,4 @@ The cost for this course will be $1700.
 
 [Go Back to course list](link1.md)
 
-[Go Back to Home](links/Readme.md)
+[Go Back to Home](README.md)
