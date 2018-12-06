@@ -1,6 +1,6 @@
 # Congratulation!!
-You have been registered for IST 7040 Data Comm.
+You have been registered for IPM 6050 Agile Project Management	
 
-The instructor will be	Prof. Brian. 
+The instructor will be	Prof. Bethea Courtnety	
 
-The cost for this course will be $1700.	
+The cost for this course will be $1800
