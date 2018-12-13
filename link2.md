@@ -1,5 +1,4 @@
-![Image](HRLogo.gif)
-
+![Image](hrlogo.gif)
 
 # The offered courses for Masters in Management Human Resource :
 
