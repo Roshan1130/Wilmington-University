@@ -1,4 +1,4 @@
-# Congratulation!!
+# Congratulation!! :satisfied: :satisfied:  :satisfied: 
 You have been registered for IPM 6050 Agile Project Management	
 
 The instructor will be	Prof. Bethea Courtnety	
