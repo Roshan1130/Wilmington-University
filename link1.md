@@ -1,6 +1,6 @@
 ![Image](ist.png)
 
-# The offered courses in MS in Information System Technology are :
+# The offered courses for MS in Information System Technology are :
 
 Course | Name of Professor |Cost | Description |Registration
 ---    | ---               | --- | ---|---
