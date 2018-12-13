@@ -1,3 +1,6 @@
+![Image](mba.jpg)
+
+
 # The offered courses are Masters in Business Administration (MBA):
 
 Course | Name of Professor |Cost | Description | Registration
