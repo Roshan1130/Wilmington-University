@@ -1,3 +1,5 @@
+[#Image](HR Logo.gif)
+
 # The offered courses are Masters in Management Human Resource :
 
 Course | Name of Professor |Cost | Description| Registration
