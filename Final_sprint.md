@@ -8,7 +8,7 @@
 
 - [x] The syllabus was linked with university website.
 
-- [x] The contacts were formated and listed properly at the bottom of home page.
+- [_] The contacts were formated and listed properly at the bottom of home page.
 
 #  Lesson learned:
 
