@@ -12,9 +12,9 @@
 
 #  Lesson learned:
 
-The Markdown language can be complex and can have amazing features.
+1) The Markdown language can be complex and can have amazing features.
 
-We ran into a problem while trying to use GIF image as background. So, we tackled it by using .png, or .jpg images.
+2) We ran into a problem while trying to use GIF image as background. So, we tackled it by using .png, or .jpg images.
 
 #  Additonal Functionality:
 
