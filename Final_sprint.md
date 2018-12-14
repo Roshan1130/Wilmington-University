@@ -16,7 +16,7 @@
 
 2) We ran into a problem while trying to use GIF image as background. So, we tackled it by using .png, or .jpg images.
 
-#  Additonal Functionality:
+#  Additonal functionality:
 
 - [x] The system has background images.
 
