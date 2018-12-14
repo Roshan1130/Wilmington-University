@@ -1,4 +1,4 @@
-## Sprint Duration: 12/07/ 2018  -  12/13/2018  :satisfied: :satisfied: :satisfied:
+## Sprint Duration: 12/07/ 2018  -  12/13/2018  :satisfied: :satisfied: :satisfied: :satisfied:
 
 # The tasks completed in this sprint are:
 
