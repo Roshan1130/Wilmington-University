@@ -16,7 +16,7 @@
 
 2) We ran into a problem while trying to use GIF image as background. So, we tackled it by using .png, or .jpg images.
 
-#  Additonal functionality:
+#  Additonal features:
 
 - [x] The system has background images.
 
@@ -24,7 +24,7 @@
 
 - [x] The system has been linked with official Linkedin accounts.
 
-- [x] The system has two options for back button functionality.
+- [x] The system has options for home and back button functionality.
 
 - [x] The system has been embedded with university contact information. 
 
