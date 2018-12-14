@@ -1,6 +1,6 @@
 # Wilmington University
 
-![Image](http://ccp.edu/sites/default/files/images/CollegePublicArt/wilmington.png)
+[![Image](http://ccp.edu/sites/default/files/images/CollegePublicArt/wilmington.png)](https://www.youtube.com/watch?v=6RDnl3NFgsY)
 
 
 Welcome to the Registration page for Wilmington University!!
