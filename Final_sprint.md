@@ -28,4 +28,4 @@
 
 - [x] The system has been embedded with university contact information. 
 
-      :satisfied: :satisfied: :satisfied: :satisfied:
+     :satisfied: :satisfied: :satisfied: :satisfied:
